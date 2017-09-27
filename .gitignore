@@ -49,7 +49,6 @@ calabash-cucumber/test/cucumber/screenshot*png
 notes
 
 # libraries that are included in the gem
-calabash-cucumber/staticlib
 calabash-cucumber/dylibs
 
 # MacOS
