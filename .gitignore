@@ -48,9 +48,6 @@ calabash-cucumber/test/cucumber/screenshot*png
 # notes
 notes
 
-# libraries that are included in the gem
-calabash-cucumber/dylibs
-
 # MacOS
 .DS_Store
 __MACOSX
